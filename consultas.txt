@@ -1,0 +1,10 @@
+Consulta Anual;Joao Silva;12-11-2014;12:00;1;Mischa
+Consulta Anual;Joao Silva;12-11-2015;12:00;1;Mischa
+Consulta Anual;Joao Silva;12-11-2016;12:00;1;Mischa
+Consulta Anual;Joao Silva;12-11-2017;12:00;1;Mischa
+Consulta Anual;Joao Silva;12-11-2018;12:00;1;Mischa
+Consulta de Rotina;Lara Sousa;15-11-2018;09:00;2;Toninho
+Consulta Anual;Pedro Paulos;24-11-2018;16:00;12;Bobi
+Consulta de Rotina;Ana Santos;25-11-2018;14:00;13;Figo
+Consulta Anual;Pedro Santos;26-11-2018;10:30;14;Lua
+Rotina;Hugo Martins;26-11-2018;16:30;15;Kiwi

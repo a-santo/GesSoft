@@ -1,0 +1,11 @@
+Desconhecido;Maria Albertina;10-10-2017;2;1;Mischa
+Cegueira;Pedro Paulos;11-10-2018;2;1;Mischa
+Fractura;Joao Alberto;25-10-2018;5;1;Mischa
+Pedras nos rins;Lara Carvalho;05-11-2018;3;2;Toninho
+Surdez;Manuel Santos;21-11-2018;1;1;Mischa
+Febre;Amilcar Santos;22-11-2018;3;5;Shmoo
+Acidente;Pinto Da Costa;23-11-2018;7;10;Tareco
+Leptospirose;Cristiano Ronaldo;24-11-2018;2;12;Bobi
+Rins;Alberto Pereira;25-11-2018;3;13;Figo
+Ferida na pata;Pedro Santos;26-11-2018;1;14;Lua
+Observacao;Hugo Martins;26-11-2018;3;15;Kiwi

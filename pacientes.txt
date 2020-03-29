@@ -1,0 +1,15 @@
+1;Mischa;Andre;244833554;Leiria;Nao definido;15;gato
+2;Toninho;Iracema;2187212;Libsoa;Rafeiro;3;cao
+3;Teste;Andre;918516083;Marrazes;Bosque da Noruega;5;gato
+4;Farrusco;Pedro Santo;918516032;Lisboa;Caniche;3;cao
+5;Shmoo;Pedro;915123311;Lisboa;Pelo Curto;6;gato
+6;Uva;Pedro;917512211;Porto;Bosque da Noruega;8;gato
+7;Bon Jovi;Tiago Macedo;938432211;Viana do Castelo;Pastor Alemao;10;cao
+8;Sakura;Ana Antunes;961234351;Santarem;Akita;5;cao
+9;Castanho;Alberto Dias;244712311;Memoria;Basset Hound;8;cao
+10;Tareco;Maria de Jesus;244761231;Evora;Europeu;11;gato
+11;Mantorras;Augusta Dias;936412021;Faro;Indefinido;3;gato
+12;Bobi;Antonio Costa;911232321;Lisboa;Caniche;2;cao
+13;Figo;Ana Antunes;244871231;Leiria;Europeu;7;gato
+14;Lua;Margarida dos Anjos;961231212;Viana do Castelo;Maine Coon;6;gato
+15;Kiwi;Fernando Pessoa;217211232;Lisboa;Poodle;12;cao
